@@ -15,5 +15,6 @@ public class BOJ_240330_A_Calculate_B {
         System.out.println(a*b);
         System.out.println(a/b);
         System.out.println(a%b);
+        //COMMIT 메시지 수정
     }
 }
