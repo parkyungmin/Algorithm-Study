@@ -16,6 +16,5 @@ public class BOJ_240331_두수비교하기 {
             System.out.println("<");
         else
             System.out.println("==");
-
     }
 }
