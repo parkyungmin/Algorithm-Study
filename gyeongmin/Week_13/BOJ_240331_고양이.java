@@ -6,5 +6,6 @@ public class BOJ_240331_고양이 {
         System.out.println(" )  ( ')");
         System.out.println("(  /  )");
         System.out.println(" \\(__)|");
+
     }
 }
